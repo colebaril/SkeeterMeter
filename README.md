@@ -1,5 +1,7 @@
 # SkeeterMeter
 
+<img src='SkeeterMeter_Logo.png' align="right" height="210" />
+
 This repository contains the data, code, and Shiny application for SkeeterMeter, a statistical model and visualization tool that forecasts mosquito trap counts across Winnipeg using weather-driven GLMMs. Developed with glmmTMB, it leverages 14-day rolling averages of temperature, precipitation, and humidity, incorporating trap- and year-level random effects and seasonal splines. Built for public health insights and risk communication.
 
 ## **Statistical Analysis**
